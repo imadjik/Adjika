@@ -1,0 +1,18 @@
+{
+  "currency": "GEL",
+  "payment_info": {
+    "card_number": "4000 1234 5678 9010",
+    "card_recipient": "გიორგი გ.",
+    "crypto_wallet": "USDT (TRC20): T1234567890..."
+  },
+  "cities": ["თბილისი", "ბათუმი", "ქუთაისი"],
+  "products": [
+    {
+      "id": "p1",
+      "name": "პროდუქტი #1",
+      "description": "პროდუქტის მოკლე აღწერა",
+      "price": 25,
+      "city": "თბილისი"
+    }
+  ]
+}
